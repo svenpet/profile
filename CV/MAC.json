@@ -1,0 +1,363 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Sven",
+      "surnames": "Peters",
+      "title": "Developer Advocate 🥑",
+      "description": "Developer Advocate helping technical teams around the world understanding how to be more effective. I’m planning and executing a scalable DevRel strategy and have a huge passion for creating stunning presentations.\n\nI believe that building a culture of no-bullshit politics, innovation, and independent cross functional teams helps the organisation being more effective and makes people happier.\n\nI love working in the software technology sector and believe that we've just started figuring out how software can help teams being more effective without dominating the way we work.",
+      "avatar": {
+        "alt": "Sven Peters.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/12/43cc1566-1abc-4b35-90f7-680fb74f259c_b2e444fe-859c-4726-a.jpg"
+      },
+      "location": {
+        "notes": "Kiel, Germany"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "http://svenpet.com"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/svenpet"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/svenpeters73/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Keynote Speaker",
+        "fact": "Sven is an international recognized speaker on teamwork, developer effectivity, new work, agile leadership, and much more. His work has been featured on stages all over the world educating thousands of developers."
+      },
+      {
+        "topic": "Speaker Coach",
+        "fact": "Sven is spoke at over 200 events worldwide and has learned a lot about preparing for conferences. He’s been helping 100s of speakers deliver fun and engaging talks and helping them overcome their stage fear. "
+      },
+      {
+        "topic": "DevRel Strategy",
+        "fact": "Sven was one of the first developer advocates before it became an established role in technology organizations. He’s been running developer relation programs at companies like Atlassian and MongoDB. Raising awareness, teaching developers new technologies, closing the feedback loop between customers and engineers, and building a strong community are essential parts of a great developer relation program."
+      }
+    ],
+    "recommendations": [
+      {
+        "title": "More about me",
+        "type": "reading",
+        "URL": "http://svenpet.com",
+        "authors": [
+          {
+            "name": "Sven",
+            "surnames": "Peters",
+            "title": "Author"
+          }
+        ]
+      },
+      {
+        "title": "Public Speaking Resources",
+        "type": "reading",
+        "URL": "https://svenpet.com/speaking-coach/",
+        "authors": [
+          {
+            "name": "Sven",
+            "surnames": "Peters",
+            "title": "Author"
+          }
+        ],
+        "summary": "A ton of resources to help new and seasoned community speakers succeed including finding the right event and topic, creating stunning slides with our template, and surviving a Q&A session."
+      },
+      {
+        "title": "Team Playbook",
+        "type": "reading",
+        "URL": "https://www.atlassian.com/team-playbook",
+        "authors": [
+          {
+            "name": "Atlassian",
+            "surnames": "Atlassian",
+            "title": "Author"
+          }
+        ],
+        "summary": "Building strong teams with 50+ plays."
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Manfred",
+          "image": {
+            "alt": "86ae9b6d-b3ea-48c9-9a3e-73aff55880cf_369adf1c-262d-400d-8.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/12/24c06bd9-c595-430c-89e0-7854b88a8d11_d63e174a-2236-405a-a.png"
+          },
+          "URL": "https://www.getmanfred.com/"
+        },
+        "roles": [
+          {
+            "name": "Lead Developer Advocate",
+            "startDate": "2022-04-01",
+            "challenges": [
+              {
+                "description": "Ramping up 🚀 Manfred's developer relation efforts and learning Spanish 🇪🇸."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "MongoDB",
+          "image": {
+            "alt": "Logo_RGB_Forest-Green.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/12/a0f439c4-2d09-4801-be0f-c674c5efdc6b_3794c4de-dcce-4ad4-9.png"
+          },
+          "URL": "http://www.mongodb.com"
+        },
+        "roles": [
+          {
+            "name": "Senior Developer Advocate",
+            "startDate": "2019-12-01",
+            "finishDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": "Helping developers understanding the value of using MongoDB. I ran the event content team for MongoDB World creating the program and managing all speakers. We also concepted, wrote, and produced the company keynotes for both virtual and in-person events taking customer satisfaction of event content to a new level at MongoDB."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "K15t",
+          "image": {
+            "alt": "k15t-header-logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/12/368c991a-1bae-49e0-ac1c-1ed2f96f0bf6_d8095342-8e39-4de4-9.png"
+          },
+          "URL": "http://www.k15t.com"
+        },
+        "roles": [
+          {
+            "name": "VP of Marketing",
+            "startDate": "2018-08-01",
+            "finishDate": "2019-12-01",
+            "challenges": [
+              {
+                "description": "At K15t I ran all the things marketing. Unlike other VP roles my job in a self organized company was not to manage a team but to lead a group of 5 marketer and help them master their job and exceed their goals. Here are some things we achieved together:\n- Web page content design / SEO\n- Re-branding\n- Content marketing\n- Campaign planning and executing\n- Event organisation\n- Product roadshows\n- Workplace marketing\n- Public speaking\nAnother part of the job was to move K15t towards a self guided organisation. We needed to define what that meant for the company and how we enable the teams to drive themselves. Here some things that I helped to establish:\n- Company strategy planning\n- Product discovery / strategy\n- Data informed planning\n- Self guided goal setting"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Atlassian",
+          "image": {
+            "alt": "atlassian logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/12/6edf28f6-af9d-45d9-85f2-49853f192a8b_c5536df3-c66a-4764-b.png"
+          },
+          "URL": "https://www.atlassian.com"
+        },
+        "roles": [
+          {
+            "name": "Technology Evangelist",
+            "startDate": "2011-06-01",
+            "finishDate": "2018-07-01",
+            "challenges": [
+              {
+                "description": "- being a brand and culture ambassador. Speaking frequently at events about software development, teamwork & organization culture\n- 3 years content lead for Atlassian's customer events - defining and executing a content strategy for breakout sessions, keynotes, and ancillary programs \n- develop thought leadership content for software developer through articles, presentations, and online discussion forums to help teams being more effective\n- leading the speaker program at Atlassian bringing together good speakers with great conferences\n- leading content committees for conferences, organizing CFP, speaker training, rehearsals, slide reviews, etc\n- help growing the Atlassian community, organizing meetups, customer interviews, and deliver feedback to Atlassian developers\n- blogging, tweeting..."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Bitbucket",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Senvion",
+          "image": {
+            "alt": "wind_senvion_logo.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/12/e1a54ea9-6d73-473e-97e1-7b4622619d99_8506992a-8167-47d4-b.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Team Lead Software Development",
+            "startDate": "2006-01-01",
+            "finishDate": "2011-06-01",
+            "challenges": [
+              {
+                "description": "- managing a team of 6 software developers\n- developing in a JavaEE environment\n- working with nearshoring\n- implementation of agile processes"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "MongoDB.Local London Keynote",
+          "description": "Produced the first MongoDB stage keynote in almost 2.5 years. The goal was to create an engaging and dynamic keynote with live demo elements that resonates with the developer focused audience. This was also the launch of MongoDB’s new corporate design.",
+          "URL": "https://youtu.be/aJ-sY2h67eU",
+          "image": {
+            "alt": "Screen Shot 2022-03-24 at 18.43.08.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/12/65e4590c-502f-425b-ac3f-2daec6038f31_20b062b5-11c9-4ef1-8.png"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2021-11-01"
+      },
+      {
+        "details": {
+          "name": "MongoDB.live Keynote",
+          "description": "This virtual keynote was set up as a TV News show. It needed to keep the virtual audience engaged throughout the 60 minutes of new product announcements.",
+          "URL": "https://youtu.be/OQJHf8xdDRM",
+          "image": {
+            "alt": "Screenshot 2022-05-04 at 13.26.41.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/12/d62471a4-341e-4dfd-98c7-108db55c5afa_9bff579c-b065-44f1-9.png"
+          }
+        },
+        "type": "launch",
+        "publishingDate": "2021-07-01"
+      },
+      {
+        "details": {
+          "name": "Team Up Tour",
+          "description": "Planned, organized, and executed a 7 city roadshow to highlight our newest product developments.",
+          "image": {
+            "alt": "screen-shot-2022-02-14-at-15.03.53.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/12/e4cfd396-3371-4781-ae6e-d727a7ce5fac_e8168df9-671d-43e4-8.png"
+          }
+        },
+        "type": "launch",
+        "publishingDate": "2019-09-01",
+        "tags": [
+          "Event"
+        ]
+      },
+      {
+        "details": {
+          "name": "Keynote Speaker",
+          "description": "Sven gave a keynote at jFokus in front of 2000+ developers.",
+          "URL": "https://youtu.be/Zlh4Sxo21O0",
+          "image": {
+            "alt": "IMG_5928.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/12/e779d0b0-ceb5-4eac-b503-3e0e93628d5f_4d52c1e1-b99e-467c-9.jpeg"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2016-02-01",
+        "tags": [
+          "Event"
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Atlassian",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Electrical Engineer",
+        "startDate": "1994-08-01",
+        "finishDate": "2000-04-01",
+        "institution": {
+          "name": "Fachhochschule Westküste",
+          "image": {
+            "alt": "1200px-Fachhochschule_Westküste_logo.svg.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/12/a0427faa-2885-4db6-b989-2f1f3ea5880d_b177dc17-efed-4648-a.png"
+          }
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/svenpeters73/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Rust",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Microsoft",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
