@@ -1,14 +1,14 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Sven",
       "surnames": "Peters",
-      "title": "Developer Advocate 🥑",
+      "title": "DevOps Advocate 🥑",
       "description": "Developer Advocate helping technical teams around the world understanding how to be more effective. I’m planning and executing a scalable DevRel strategy and have a huge passion for creating stunning presentations.\n\nI believe that building a culture of no-bullshit politics, innovation, and independent cross functional teams helps the organisation being more effective and makes people happier.\n\nI love working in the software technology sector and believe that we've just started figuring out how software can help teams being more effective without dominating the way we work.",
       "avatar": {
         "alt": "Sven Peters.jpg",
@@ -17,7 +17,8 @@
       "location": {
         "country": "Alemania",
         "region": "Schleswig-Holstein",
-        "municipality": "Kiel"
+        "municipality": "Kiel",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
