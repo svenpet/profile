@@ -93,6 +93,45 @@
     "jobs": [
       {
         "organization": {
+          "name": "Atlassian",
+          "image": {
+            "alt": "fbefdb5f-dee0-409a-931d-93fd794dee7d_6edf28f6-af9d-45d9-8.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/04/cb53577c-8d7a-4f84-bf51-326cba464097_fbefdb5f-dee0-409a-9.png"
+          },
+          "URL": "https://atlassian.com"
+        },
+        "roles": [
+          {
+            "name": "DevOps Advacte",
+            "startDate": "2022-10-01",
+            "challenges": [
+              {
+                "description": "Inspiring 1000s of developer teams how to best do DevOps - human to human."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Atlassian",
+                "type": "technology"
+              },
+              {
+                "name": "Bitbucket",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Manfred",
           "image": {
             "alt": "86ae9b6d-b3ea-48c9-9a3e-73aff55880cf_369adf1c-262d-400d-8.png",
