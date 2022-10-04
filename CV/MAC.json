@@ -15,7 +15,9 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/12/4fd1c9c8-51b4-45ef-a688-f7391e1aec23_43cc1566-1abc-4b35-9.jpg"
       },
       "location": {
-        "notes": "Kiel, Germany"
+        "country": "Alemania",
+        "region": "Schleswig-Holstein",
+        "municipality": "Kiel"
       }
     },
     "relevantLinks": [
@@ -102,6 +104,7 @@
           {
             "name": "Lead Developer Advocate",
             "startDate": "2022-04-01",
+            "finishDate": "2022-09-01",
             "challenges": [
               {
                 "description": "Ramping up 🚀 Manfred's developer relation efforts and learning Spanish 🇪🇸."
@@ -290,12 +293,6 @@
       },
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "MongoDB",
           "type": "technology"
         }
@@ -303,6 +300,12 @@
       {
         "skill": {
           "name": "Atlassian",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
           "type": "technology"
         }
       }
@@ -357,6 +360,9 @@
           "name": "Microsoft",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Developer Evangelist & Advocate"
       ]
     }
   }
