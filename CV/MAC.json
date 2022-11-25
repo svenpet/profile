@@ -324,6 +324,20 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "Danish",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "English",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "German",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
@@ -404,6 +418,7 @@
       "preferredRoles": [
         "Developer Evangelist & Advocate"
       ]
-    }
+    },
+    "status": "notAvailable"
   }
 }
