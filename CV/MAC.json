@@ -9,7 +9,7 @@
       "name": "Sven",
       "surnames": "Peters",
       "title": "DevOps Advocate 🥑 at Atlassian 🧢",
-      "description": "Developer Advocate helping technical teams around the world understanding how to be more effective. I’m planning and executing a scalable DevRel strategy and have a huge passion for creating stunning presentations.\n\nI believe that building a culture of no-bullshit politics, innovation, and independent cross functional teams helps the organisation being more effective and makes people happier.\n\nI love working in the software technology sector and believe that we've just started figuring out how software can help teams being more effective without dominating the way we work.",
+      "description": "",
       "avatar": {
         "alt": "Sven Peters.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/12/4fd1c9c8-51b4-45ef-a688-f7391e1aec23_43cc1566-1abc-4b35-9.jpg"
@@ -60,7 +60,8 @@
             "surnames": "Peters",
             "title": "Author"
           }
-        ]
+        ],
+        "summary": ""
       },
       {
         "title": "Public Speaking Resources",
@@ -373,6 +374,7 @@
         "finishDate": "2000-04-01",
         "institution": {
           "name": "Fachhochschule Westküste",
+          "description": "",
           "image": {
             "alt": "1200px-Fachhochschule_Westküste_logo.svg.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/12/52e06617-90ce-42ae-adb6-b27176e2b08a_a0427faa-2885-4db6-b.png"
