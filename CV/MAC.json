@@ -350,19 +350,31 @@
       },
       {
         "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Java",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "JavaScript",
+          "name": "Jetbrains",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "MongoDB",
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Slack",
           "type": "technology"
         }
       }
@@ -449,6 +461,24 @@
     "status": "notAvailable"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Atlassian",
+        "type": "technology"
+      },
+      {
+        "name": "Github",
+        "type": "technology"
+      },
+      {
+        "name": "Java",
+        "type": "technology"
+      },
+      {
+        "name": "Jetbrains",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "A senior kind of role lading a devrel team or building up devrel. ",
     "goodPractices": "Agile, autonomous teams",
     "bookmarks": [
