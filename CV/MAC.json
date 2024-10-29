@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -76,6 +76,14 @@
       }
     ],
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/svenpeters73/"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/svenpet"
+      },
       {
         "type": "other",
         "URL": "http://svenpet.com"
@@ -222,7 +230,7 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -319,14 +327,17 @@
     "languages": [
       {
         "name": "DA",
+        "fullName": "Danés",
         "level": "Professional working proficiency"
       },
       {
         "name": "DE",
+        "fullName": "Alemán",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -339,7 +350,7 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -403,15 +414,6 @@
         {
           "URL": "https://twitter.com/svenpet",
           "type": "twitter"
-        }
-      ],
-      "contactMails": [
-        "sven.peters.home@googlemail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "1603382771",
-          "countryCode": "+49"
         }
       ]
     },
